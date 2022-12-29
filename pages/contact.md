@@ -1,6 +1,6 @@
 ---
 layout              : page
-title               : "Contact"
+title               : "Connect With Me"
 meta_title          : "Contact and use our contact form"
 subheadline         : "Contact Form"
 teaser              : "Get in touch with me? Use the contact form."
